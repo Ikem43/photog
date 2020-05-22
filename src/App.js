@@ -26,6 +26,8 @@ function App() {
 		// // 	console.log(response);
 		// // })();
 	}, [term]);
+
+	//Remember to add Pagination
 	return (
 		<Fragment>
 			<ImageSearch sText={text => setTerm(text)} />
