@@ -1,0 +1,10 @@
+{
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "javascript.autoClosingTags": false,
+    "typescript.autoClosingTags": false,
+    "auto-close-tag.enableAutoCloseSelfClosingTag": false,
+    "auto-close-tag.enableAutoCloseTag": false,
+    "tailwindCSS.emmetCompletions": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "explorer.enableDragAndDrop": false
+}
